@@ -26,7 +26,7 @@ Describes a simple load test scenario using Apache JMeter.
 
 **Kaushal Pandya**  
 QA Automation Engineer | 10+ Years Experience | Selenium • Java • API • AWS • CI/CD  
-📍 Folsom, CA | Remote-First | [LinkedIn](https://www.linkedin.com/in/kpandya-ca/)  
+📍 Folsom, CA | Remote-First 
 📫 Email: pkaushal.it@gmail.com
 
 ---
